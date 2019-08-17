@@ -282,6 +282,12 @@ As a consequence of the experiment, you have control over your cosmetic quality,
 						}
 					]
 				}
+			],
+			"toolProficiencies": [
+				{
+					"herbalism kit": false,
+					"vehicles (land)": false
+				}
 			]
 			
 		}
