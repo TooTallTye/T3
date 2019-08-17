@@ -1,5 +1,4 @@
-{
-	"_meta": {
+{"_meta": {
 		"sources": [
 			{
 				"json": "T3",
@@ -99,9 +98,7 @@
 					"name": "Feature: Scars of Conception",
 					"type": "entries",
 					"entries": [
-						"You have some physical deformity that marks you out as a victim of arcane or physiological anatomization. This abnormality is the result of a signature operation that identifies the group or individual that worked on you. This can be recognized by other victims of your master; and by scientists, wizards, and students familiar with your master's work. Deformities might include a hunched back, digitigrade legs, cranial vivisection scars, protruding bone or metal, grafted animal parts, elemental veins visible through your skin, or any other dramatic, visibly distinctive disfiguration.
-
-In addition, you are familiar with the layout of laboratories in the most general sense, and know the function (if not the names) of laboratory equipment such as athanors, alembics, pressure chambers, electric baths, blood transfusion machines, or exotic arcane surgery tools"
+						"You have some physical deformity that marks you out as a victim of arcane or physiological anatomization. This abnormality is the result of a signature operation that identifies the group or individual that worked on you. This can be recognized by other victims of your master; and by scientists, wizards, and students familiar with your master's work. Deformities might include a hunched back, digitigrade legs, cranial vivisection scars, protruding bone or metal, grafted animal parts, elemental veins visible through your skin, or any other dramatic, visibly distinctive disfiguration.  In addition, you are familiar with the layout of laboratories in the most general sense, and know the function (if not the names) of laboratory equipment such as athanors, alembics, pressure chambers, electric baths, blood transfusion machines, or exotic arcane surgery tools"
 					],
 					"data": {
 						"isFeature": true
@@ -111,9 +108,7 @@ In addition, you are familiar with the layout of laboratories in the most genera
 					"name": "Alternate Feature: Success",
 					"type": "entries",
 					"entries": [
-						"The experiment conducted on you turned out to be a success! You are either one of the first successful subjects, or a later recipient of the perfected process, and were released into the world to carry out your purpose. Work with your DM to determine what your purpose is, and whether or not you are still subservient to your creator. (Likely purposes include being a super-soldier, begetting superior progeny, fulfilling some function in a ritual/machine/prophecy, etc.)
-
-As a consequence of the experiment, you have control over your cosmetic quality, and can control its appearance or apparence as part of how you communicate. (For example, a character with sharp teeth could bare their fangs to threaten, a character with bioluminescence could give off colored flashes to express emotion, a hybrid could change their attire to emphasize the traits of one race to appear very different, etc.) Anyone familiar with the experiment will notice you right away though- you're famous in a small circle of researchers."
+						"The experiment conducted on you turned out to be a success! You are either one of the first successful subjects, or a later recipient of the perfected process, and were released into the world to carry out your purpose. Work with your DM to determine what your purpose is, and whether or not you are still subservient to your creator. (Likely purposes include being a super-soldier, begetting superior progeny, fulfilling some function in a ritual/machine/prophecy, etc.)  As a consequence of the experiment, you have control over your cosmetic quality, and can control its appearance or apparence as part of how you communicate. (For example, a character with sharp teeth could bare their fangs to threaten, a character with bioluminescence could give off colored flashes to express emotion, a hybrid could change their attire to emphasize the traits of one race to appear very different, etc.) Anyone familiar with the experiment will notice you right away though- you're famous in a small circle of researchers."
 					],
 					"data": {
 						"isFeature": true
@@ -239,7 +234,7 @@ As a consequence of the experiment, you have control over your cosmetic quality,
 								],
 								[
 									"6",
-									"I forget who I was before I was, "changed"."
+									"I forget who I was before I was, changed."
 								]
 							]
 						},
@@ -288,8 +283,9 @@ As a consequence of the experiment, you have control over your cosmetic quality,
 					"herbalism kit": false,
 					"vehicles (land)": false
 				}
-			]
-			
-		}
-	]
+]				
+}
+]
+}
+]
 }
